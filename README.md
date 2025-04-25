@@ -16,10 +16,13 @@ Este repositório organiza todas as frentes que um Tech Lead precisa acompanhar 
 - [`projetos/cloud-migration.md`](projetos/cloud-migration.md)
 
 ### 📦 Releases & Sprints
-- [`releases/sprint-14.md`](releases/sprint-14.md)
+- [`releases/2025-04-release-1-sprint-1.md`](releases/2025-04-release-1-sprint-1.md)
 
 ### 🤝 Reuniões
 - [`reunioes/2025-04-25-sync-arquitetura.md`](reunioes/2025-04-25-sync-arquitetura.md)
+
+### 🗣️ Envolvimentos
+- [`envolvimentos/seguranca-infra.md`](envolvimentos/seguranca-infra.md)
 
 ### 🧠 Análises Técnicas
 - [`analises/tecnica-vs-migracao.md`](analises/tecnica-vs-migracao.md)
